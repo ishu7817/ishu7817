@@ -1,6 +1,6 @@
 ### hey, I'm Ishu. 👋
 
-Frontend dev. UI designer. Writer who got into code and never looked back.
+Frontend dev. UI designer. Writer who got into code.
 
 I build interfaces that actually feel like something — clean, dark, precise. The kind of UI where you notice the details without knowing why. I obsess over layout, motion, and the psychology behind what makes people click (or not).
 
@@ -20,7 +20,7 @@ I build interfaces that actually feel like something — clean, dark, precise. T
 ```
 Frontend  →  React · Next.js · Tailwind CSS · Framer Motion
 Backend   →  Node.js · Express · MongoDB · JWT · Cloudinary
-Design    →  Figma · dark · cinematic · minimal
+Design    →  Figma · Figjam
 ```
 
 ---
@@ -29,7 +29,7 @@ Design    →  Figma · dark · cinematic · minimal
 
 Before I wrote code, I wrote about people.
 
-3+ years studying behavioral psychology. Cialdini, Sapolsky, Naval — the whole rabbit hole. And somewhere along the way I started writing aphorisms and essays about human behavior, persuasion, and what people actually want vs. what they say they want.
+3+ years (still counting...) studying behavioral psychology, And somewhere along the way I started writing aphorisms and essays about human behavior, persuasion, and what people actually want vs. what they say they want.
 
 550+ days straight. No breaks.
 
